@@ -1,0 +1,2 @@
+rootProject.name='RP Website PS'
+include ':app'
